@@ -13,7 +13,7 @@ class App extends Component {
 
       this.state = {
           timestamp: 'no timestamp yet',
-          tweet: ""
+          tweet: "984439194184536064"
       };
 
       subscribeToTimer((err, timestamp) => this.setState({
